@@ -1,13 +1,16 @@
 /* TODO: Label selector type */
+/*This affects everything in index*/
 * {
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
   }
 
 /* TODO: Label selector type */
+/*For the entire body set background color to lemonchiffon*/
 body {
   background-color: lemonchiffon;
 }
 
+/*For header and footer, set dimensions and color*/
 header,
 footer {
   width: 100%;
@@ -17,6 +20,7 @@ footer {
   background-color: #191970;
 }
 
+/*image width as well as background color for caption*/
 figure {
   width: 200px;
   background-color: #f0ead6;
@@ -28,6 +32,7 @@ figure {
 }
 
 /* TODO: Label selector type */
+/*id contact-section setting up background color*/
 #contact-section {
   background-color: #f0ead6;
 }
